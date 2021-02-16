@@ -3,11 +3,11 @@
 
 ## I'm Python Developer!
 
-- 🔭 I'm Python/Django dev
+- <img align="left"  width="18px" src="https://media3.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif?cid=ecf05e477dfbkxcnk8135m3yhfe72m7bmens77ut3y8yzej8&rid=giphy.gif" /> I'm Python/Django dev
 - 🌱 I’m currently learning Dart for fun
 - 🥅 2021 Goals: learn Dart and make apps with it
 - ⚡ Fun fact: I love to watch anime
-
+🔭
 <br>
 
 [<img align="left" alt="Charan | Instagram" width="22px" src="https://robots.net/wp-content/uploads/2020/03/Photo-by-Tumisu-1-1-600x595.jpg" />][instagram]
