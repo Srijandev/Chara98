@@ -1,3 +1,5 @@
+
+![](https://komarev.com/ghpvc/?username=Chara98&label=PROFILE+VIEWS)
 ### Hi there, I'm Charan - aka Chara98 👋
 
 
