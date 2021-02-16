@@ -1,5 +1,3 @@
-
-![](https://komarev.com/ghpvc/?username=Chara98&label=PROFILE+VIEWS)
 ### Hi there, I'm Charan - aka Chara98 👋
 
 
@@ -36,6 +34,6 @@ const Chara98 = {
 <img align="left" alt="Django" width="26px" src="https://twilio-cms-prod.s3.amazonaws.com/original_images/django-dark.png" />
 <img align="left" alt="Django" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" />
 
-
+![](https://komarev.com/ghpvc/?username=Chara98&label=PROFILE+VIEWS)
 
 [instagram]: https://www.instagram.com/madinenicharan
