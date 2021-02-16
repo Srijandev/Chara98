@@ -10,9 +10,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Chara98 Spotify Playing" width="350" />](https://open.spotify.com/user/	5s58poyhfrbvgvqxw3cjskh9m)
-
-### Connect with me:
+[<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Finanisvitae.tumblr.com%2Fpost%2F622152305020731392&psig=AOvVaw24pbzBBgLAkj15F10Tdg8t&ust=1613577681875000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOC4-Lvj7u4CFQAAAAAdAAAAABAD" alt="Chara98 Spotify Playing" width="350" />](https://open.spotify.com/user/	5s58poyhfrbvgvqxw3cjskh9m)
 
 
 
