@@ -6,7 +6,7 @@
 - <img width="16px" src="https://media3.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif?cid=ecf05e477dfbkxcnk8135m3yhfe72m7bmens77ut3y8yzej8&rid=giphy.gif"/> I'm Python/Django dev
 - <img width="16px" src="https://pbs.twimg.com/profile_images/993555605078994945/Yr-pWI4G.jpg"/> I’m currently learning Dart for fun
 - <img width="16px" src="https://cdn.shopify.com/s/files/1/0070/7032/files/AMgoal-setting_HEADER.jpg?v=1579623952"/> 2021 Goals: learn Dart and make apps with it
-- <img width="16px" src="https://i.pinimg.com/736x/9a/b6/a2/9ab6a2794d0ed343a4c5d489f5d9828d.jpg"/> Fun fact: I love to watch anime
+- <img width="16px" src="https://i.pinimg.com/536x536/9a/b6/a2/9ab6a2794d0ed343a4c5d489f5d9828d.jpg"/> Fun fact: I love to watch anime
 
 <br>
 
