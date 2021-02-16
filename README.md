@@ -10,7 +10,7 @@
 
 <br>
 
-[<img align="left" alt="Charan | Instagram" width="22px" src="https://robots.net/wp-content/uploads/2020/03/Photo-by-Tumisu-1-1-600x595.jpg" />][instagram]
+[<img align="left" alt="Charan | Instagram" width="22px" src="https://robots.net/wp-content/uploads/2020/03/Photo-by-Tumisu-1-1-600x595.jpg" >Charan | Instagram</img>][instagram]
 
 <br />
 
