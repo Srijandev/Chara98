@@ -5,7 +5,7 @@
 
 - <img width="16px" src="https://media3.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif?cid=ecf05e477dfbkxcnk8135m3yhfe72m7bmens77ut3y8yzej8&rid=giphy.gif"/> I'm Python/Django dev
 - <img width="16px" src="https://pbs.twimg.com/profile_images/993555605078994945/Yr-pWI4G.jpg"/> I’m currently learning Dart for fun
-- <img width="16px" src="https://cdn.shopify.com/s/files/1/0070/7032/files/AMgoal-setting_HEADER.jpg?v=1579623952"/> 2021 Goals: learn Dart and make apps with it
+- <img width="16px" src="https://lutonmuslimjournal.com/wp-content/uploads/2020/01/goals.png"/> 2021 Goals: learn Dart and make apps with it
 - <img width="16px" src="https://i.insider.com/5e820b04671de06758588fb8"/> Fun fact: I love to watch anime
 
 <br>
