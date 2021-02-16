@@ -15,7 +15,7 @@
 <br />
 
 ```javascript
-const Srijan = {
+const Chara98 = {
   OS: [Ubuntu, WINDOWS],  
   code: [HTML, CSS, Python, Dart],
   Interest: [WebDev, Appdev],
